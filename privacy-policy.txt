@@ -1,0 +1,7 @@
+Privacy Policy for JazCom Data Viewer
+
+This app uses your username and password to access an API to retrieve data. Your credentials are stored locally on your device, and it is up to you to maintain the device's security.
+The author accepts no responsibility for leaks of credentials or data.
+
+This app only uses your credentials to retrieve data. It does not store your credentials anywhere but on your device, and it does not publish your data.
+
