@@ -1,0 +1,21 @@
+{
+  "auth": {
+    "url": "https://jazcom.jazeee.com/sample4/auth.txt",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json",
+      "Content-Type": "application/json"
+    },
+    "bodyBase": {
+    }
+  },
+  "data": {
+    "url": "https://jazcom.jazeee.com/sample4/data.json",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json",
+      "Content-Type": "application/json"
+    },
+    "bodyBase": null
+  }
+}
