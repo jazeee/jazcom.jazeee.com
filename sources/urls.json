@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "name": "DX US 1",
+      "apiUrls": "https://jazcom.jazeee.com/dx"
+    },
+    {
+      "name": "DX US 2",
+      "isDefault": true,
+      "apiUrls": "https://jazcom.jazeee.com/dx-2"
+    },
+    {
+      "name": "DX Outside US 1",
+      "apiUrls": "https://jazcom.jazeee.com/dx-ous-1"
+    },
+    {
+      "name": "US sample data rising to 205",
+      "apiUrls": "https://jazcom.jazeee.com/sample"
+    },
+    {
+      "name": "US sample data flattening at 157",
+      "apiUrls": "https://jazcom.jazeee.com/sample2"
+    },
+    {
+      "name": "US sample data rising to 149",
+      "apiUrls": "https://jazcom.jazeee.com/sample3"
+    },
+    {
+      "name": "US sample data rising with data correction",
+      "apiUrls": "https://jazcom.jazeee.com/sample4"
+    },
+    {
+      "name": "Outside US sample data rising",
+      "apiUrls": "https://jazcom.jazeee.com/sample-ous-1"
+    }
+  ]
+}

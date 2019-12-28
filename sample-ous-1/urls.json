@@ -1,6 +1,6 @@
 {
   "auth": {
-    "url": "https://jazcom.jazeee.com/sample/auth.txt",
+    "url": "https://jazcom.jazeee.com/sample4/auth.txt",
     "method": "GET",
     "headers": {
       "Accept": "application/json",
@@ -10,7 +10,7 @@
     }
   },
   "data": {
-    "url": "https://jazcom.jazeee.com/sample/data.json",
+    "url": "https://jazcom.jazeee.com/sample4/data.json",
     "method": "GET",
     "headers": {
       "Accept": "application/json",
@@ -19,13 +19,13 @@
     "bodyBase": null
   },
   "meta": {
-    "units": "mg/dL",
-    "lowWarning": 30,
-    "highWarning": 300,
-    "minScale": 30,
-    "lowAxis": 70,
-    "highAxis": 140,
-    "higherAxis": 160,
-    "maxScale": 250
+    "units": "mmol/L",
+    "lowWarning": 3.0,
+    "highWarning": 11.0,
+    "minScale": 2.0,
+    "lowAxis": 4.0,
+    "highAxis": 8.0,
+    "higherAxis": 9.0,
+    "maxScale": 14.0
   }
 }
