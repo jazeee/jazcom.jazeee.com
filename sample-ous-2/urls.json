@@ -1,6 +1,6 @@
 {
   "auth": {
-    "url": "https://jazcom.jazeee.com/sample-ous-1/auth.txt",
+    "url": "https://jazcom.jazeee.com/sample-ous-2/auth.txt",
     "method": "GET",
     "headers": {
       "Accept": "application/json",
@@ -10,7 +10,7 @@
     }
   },
   "data": {
-    "url": "https://jazcom.jazeee.com/sample-ous-1/data.json",
+    "url": "https://jazcom.jazeee.com/sample-ous-2/data.json",
     "method": "GET",
     "headers": {
       "Accept": "application/json",

@@ -32,6 +32,10 @@
     {
       "name": "Outside US sample data rising",
       "sourceUrl": "https://jazcom.jazeee.com/sample-ous-1"
+    },
+    {
+      "name": "Outside US sample data with low and high",
+      "sourceUrl": "https://jazcom.jazeee.com/sample-ous-2"
     }
   ]
 }
